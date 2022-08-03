@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-color: #2fa25c;
+}
+
+.App {
+  text-align: center;
+}
+
+.inputField {
+  height: 32px;
+  width: 80%;
+  border-radius: 30px;
+  border: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 22px;
+}
+
+.second {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.submitbutton {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  border: 0;
+  margin-left: 10px;
+}
+
+.listItems {
+  margin-left: 50px;
+}
